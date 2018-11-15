@@ -37,3 +37,8 @@ Names are obvious but i'll explain. It's a way to add Horizontal or Vertical Spa
 -Space_Btw_Cascade_Rows is the Space in Pixel between Rows of Cascade
 
 Important Note : If you use the Container GUI and click on RunOnce , before to use Auto Mode close the poker tables else they will overlap with the new ones and since you cannot move a table that has no titlebar/borders you might get in troubles by not following my advice.
+
+Futur updates :
+- Keyboard Shortcuts (Those who can't wait can look at HotKeySet in AutoIT help File)
+- Slots to Stack Tables and to move them from one to an other one with keyboard shortcuts
+- There's also plenty code optimisation to do (i see atleast 5 of them possible to do)

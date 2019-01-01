@@ -42,3 +42,8 @@ Futur updates :
 - Keyboard Shortcuts (Those who can't wait can look at HotKeySet in AutoIT help File)
 - Slots to Stack Tables and to move them from one to an other one with keyboard shortcuts
 - There's also plenty code optimisation to do (i see atleast 5 of them possible to do)
+
+#Changes V1.10 :
+- Container Gui as parent had been removed , instead when removing TitleBars & Borders the windows are redrawed using GDI+
+- Script is more performing and less ressources consuming
+  Happy New Year !!!

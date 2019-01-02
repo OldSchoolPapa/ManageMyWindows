@@ -12,10 +12,7 @@ How to install :
 - Run Script(x86) to run it directly or CompileScript(x86) if you want an executable file.
 - That's it ! Enjoy!
 
-Note : If your default hard drive letter isn't C:\ go to the Lib folder and right click on ParentContainer.au3 and Edit Script
-Then replace all the includes path drive letters by yours.
-(Exemple #include <C:\Program Files (x86)\AutoIt3\Include\Array.au3> by #include <Z:\Program Files (x86)\AutoIt3\Include\Array.au3>)
-Also if your Poker Client Run with Admin Rights, You have to Compile the Script and run it As Admin.
+Note : If your Poker Client Run with Admin Rights, You have to Compile the Script and run it As Admin.
 
 How to use it :
 - Open a window or a poker table and resize it the way you want it to be
